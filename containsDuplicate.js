@@ -6,3 +6,4 @@ var containsDuplicate = function(nums) {
 };
 
 
+// https://leetcode.com/problems/contains-duplicate/
